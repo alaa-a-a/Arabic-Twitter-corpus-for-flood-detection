@@ -9,10 +9,10 @@ Alharbi, A. and M. Lee (2019). Crisis Detection from Arabic Tweets. In The 3rd W
 
 
 BibTeX:
-@inproceedings{Alharbi-2019-crisis, 
-title = {Crisis Detection from Arabic Tweets}, 
-author = {Alharbi, Alaa and Lee, Mark}, 
-booktitle = {The 3rd Workshop on Arabic Corpus Linguistics (WACL-3)},
-year = {2019}, 
-address = {Cardiff, United Kingdom}, 
-publisher = {Association for Computational Linguistics}}
+@inproceedings{alharbi2019crisis,
+  title={Crisis Detection from Arabic Tweets},
+  author={Alharbi, Alaa and Lee, Mark},
+  booktitle={Proceedings of the 3rd Workshop on Arabic Corpus Linguistics},
+  pages={72--79},
+  year={2019}
+}
