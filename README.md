@@ -5,9 +5,9 @@ The tweets labelled based on relatedness to the crisis and information type.
 
 If you use the dataset in your research, please cite the following paper: 
 
-Alharbi, A. and Lee, M., 2019. Crisis Detection from Arabic Tweets. In Proceedings of the 3rd Workshop on Arabic Corpus Linguistics (pp. 72-79). 
+Alharbi, A. and Lee, M., 2019. [Crisis Detection from Arabic Tweets](https://www.aclweb.org/anthology/W19-5609.pdf). In Proceedings of the 3rd Workshop on Arabic Corpus Linguistics (pp. 72-79). 
 
-
+```
 BibTeX:
 
 @inproceedings{alharbi2019crisis,
@@ -22,3 +22,4 @@ BibTeX:
   
  year={2019}
 }
+```
