@@ -11,15 +11,10 @@ Alharbi, A. and Lee, M., 2019. [Crisis Detection from Arabic Tweets](https://www
 BibTeX:
 
 @inproceedings{alharbi2019crisis,
-
  title={Crisis Detection from Arabic Tweets},
-  
  author={Alharbi, Alaa and Lee, Mark},
-  
  booktitle={Proceedings of the 3rd Workshop on Arabic Corpus Linguistics},
-  
- pages={72--79},
-  
+ pages={72--79}, 
  year={2019}
 }
 ```
